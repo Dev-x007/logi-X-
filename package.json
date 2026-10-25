@@ -1,0 +1,10 @@
+{
+  "name": "logi-x",
+  "version": "0.1.0",
+  "private": true,
+  "main": "App.js",
+  "scripts": {
+    "test": "node --test ./tests/corridorEngine.test.js"
+  },
+  "type": "module"
+}
